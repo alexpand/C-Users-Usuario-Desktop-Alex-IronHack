@@ -1,0 +1,49 @@
+body{
+  width:100%;
+  background-color: white;
+}
+
+#caja{
+    width: 2000px;
+    margin: auto;
+    margin-top: -100px;
+    background-color:black;
+    color:white;
+   height: 250px;
+   text-align: left;
+   font-size: 100px;
+   padding: 40px 20px 40px 150px;
+}
+
+#caja2{
+  width: 1700px;
+  margin: auto;
+  background-color: orangered;
+  color: white;
+  height: 75px;
+  text-align: center;
+  margin-top: 30px;
+  padding: 20px 20px 40px 20px;
+  font-size: 30px;
+ 
+}
+
+#caja3{
+  width: 1700px;
+  margin: auto;
+  background-color:white;
+  color: black;
+  text-align: center;
+  height: 25000px;
+}
+
+#caja4{
+  width: 200px;
+  margin: auto;
+  background-color: green;
+  color: white;
+  height: 75px;
+  text-align: center;
+  font-size: 30px;
+  
+}
